@@ -15,6 +15,7 @@ The project also explores the data using **pandas**, **numpy**, and visualizatio
 
 The dataset includes:
 
+
 | Hours_Studied | Sleep_Hours | Practice_Tests | Score |
 |---------------|------------|----------------|-------|
 | 1             | 5          | 1              | 40    |
