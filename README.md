@@ -2,6 +2,7 @@
 
 This is a beginner-friendly Python project demonstrating how to build a **Linear Regression model** to predict student scores. The model uses three features: 
 
+
 - Hours Studied
 - Sleep Hours
 - Practice Tests
