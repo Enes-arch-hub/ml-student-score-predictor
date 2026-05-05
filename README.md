@@ -1,5 +1,6 @@
 # ML Student Score Predictor
 
+
 This is a beginner-friendly Python project demonstrating how to build a **Linear Regression model** to predict student scores. The model uses three features: 
 
 
