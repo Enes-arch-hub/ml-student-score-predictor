@@ -3,7 +3,6 @@ This is a beginner-friendly Python project demonstrating how to build a **Linear
 
 
 
-
 - Hours Studied
 - Sleep Hours
 - Practice Tests
