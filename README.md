@@ -6,7 +6,6 @@ This is a beginner-friendly Python project demonstrating how to build a **Linear
 - Sleep Hours
 - Practice Tests
 
-
 The project also explores the data using **pandas**, **numpy**, and visualizations, and evaluates the model with **R² Score** and **Mean Squared Error**.
 
 ## 📂 Dataset
